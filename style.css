@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #121214;
+  background-image: url(assets/others/bg.svg);
+  background-position-y: 55.6;
+  background-position-x: center;
+  background-repeat: no-repeat;
+}
+
+#app {
+  width: fit-content;
+  margin: 52px auto;
+}
